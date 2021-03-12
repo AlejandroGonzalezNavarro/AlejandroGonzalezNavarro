@@ -7,8 +7,8 @@ Siempre estoy aprendiendo, me gusta curiosear sobre todo tipo de cosas, para sab
     * HTML
     * CSS
    * Back End
-    * PHP
-    * JavaScript
+     * PHP
+     * JavaScript
 * Otros
   * SQL
   * C#
