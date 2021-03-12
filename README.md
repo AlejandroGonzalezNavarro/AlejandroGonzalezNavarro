@@ -15,7 +15,12 @@ Siempre estoy aprendiendo, me gusta curiosear sobre todo tipo de cosas, para sab
   * JAVA
 ### Actualmente :mag_right:
 Actualmente me encuentro estudiando el grado superior en Desarrollo de aplicaciones multiplataforma.
+
 [LinkedIn](https://bit.ly/2McLDKT)
+
+[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrogonzaleznavarro&exclude_repo=Code&hide=Hack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Estadisticas](https://github-readme-stats.vercel.app/api?username=alejandrogonzaleznavarro&hide=prs,issues&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AlejandroGonzalezNavarro/AlejandroGonzalezNavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
