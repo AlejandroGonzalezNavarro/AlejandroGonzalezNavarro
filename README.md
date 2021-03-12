@@ -33,6 +33,7 @@ Siempre estoy aprendiendo, me gusta curiosear sobre todo tipo de cosas, para sab
   </td>
   <td>
 <h3><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">Github Readme Stats</a></h3>
+
 [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrogonzaleznavarro&exclude_repo=Code&hide=Hack&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
   </td>
  </tr>
