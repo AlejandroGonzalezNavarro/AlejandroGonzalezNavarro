@@ -1,7 +1,7 @@
 # Hola 👋
-## Sobre mi
+## Sobre mi :smile:
 Siempre estoy aprendiendo, me gusta curiosear sobre todo tipo de cosas, para saber como funciona e interactua con el resto de componentes.
-### Algunos lenguajes con los que he experimentado
+### Algunos lenguajes con los que he experimentado :computer:
 * WEB
   * Front End
     * HTML
@@ -13,8 +13,9 @@ Siempre estoy aprendiendo, me gusta curiosear sobre todo tipo de cosas, para sab
   * SQL
   * C#
   * JAVA
-### Actualmente
+### Actualmente :mag_right:
 Actualmente me encuentro estudiando el grado superior en Desarrollo de aplicaciones multiplataforma.
+[LinkedIn](https://bit.ly/2McLDKT)
 <!--
 **AlejandroGonzalezNavarro/AlejandroGonzalezNavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
