@@ -41,6 +41,9 @@ Siempre estoy aprendiendo, me gusta curiosear sobre todo tipo de cosas, para sab
  </tbody>
 </table>
 
+|   |  [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrogonzaleznavarro&exclude_repo=Code&hide=Hack&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)  |
+|---|---|
+
 ### Actualmente :mag_right:
 Actualmente me encuentro estudiando el grado superior en Desarrollo de aplicaciones multiplataforma.
 ### Encuentrame en:
