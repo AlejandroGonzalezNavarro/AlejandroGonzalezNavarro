@@ -2,41 +2,43 @@
 ## Sobre mi :smile:
 Siempre estoy aprendiendo, me gusta curiosear sobre todo tipo de cosas, para saber como funciona e interactua con el resto de componentes.
 <table style="border: 0px;vertical-align: top;text-align: left;">
- <tr style="border: 0px;">
-  <td style="border: 0px;">
-<h3>Algunos lenguajes con los que he experimentado :computer: <h3>
-<ul>
- <li>WEB
+ <tbody>
+  <tr style="border: 0px;">
+   <td style="border: 0px;">
+ <h3>Algunos lenguajes con los que he experimentado :computer: <h3>
+ <ul>
+  <li>WEB
+   <ul>
+    <li>Front End
+     <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+     </ul>
+    </li>
+    <li>Back End
+     <ul>
+      <li>PHP</li>
+      <li>JavaScript</li>
+     </ul>
+    </li>
+   </ul>
+  </li>
+ <li>Otros
   <ul>
-   <li>Front End
-    <ul>
-     <li>HTML</li>
-     <li>CSS</li>
-    </ul>
-   </li>
-   <li>Back End
-    <ul>
-     <li>PHP</li>
-     <li>JavaScript</li>
-    </ul>
-   </li>
+   <li>SQL</li>
+   <li>C#</li>
+   <li>JAVA</li>
   </ul>
  </li>
-<li>Otros
- <ul>
-  <li>SQL</li>
-  <li>C#</li>
-  <li>JAVA</li>
  </ul>
-</li>
-</ul>
-  </td>
-  <td style="border: 0px;">
-<h3><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">Github Readme Stats</a></h3>
+   </td>
+   <td style="border: 0px;">
+ <h3><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">Github Readme Stats</a></h3>
 
-[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrogonzaleznavarro&exclude_repo=Code&hide=Hack&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-  </td>
- </tr>
+ [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrogonzaleznavarro&exclude_repo=Code&hide=Hack&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+   </td>
+  </tr>
+ </tbody>
 </table>
 
 ### Actualmente :mag_right:
