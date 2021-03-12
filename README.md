@@ -18,7 +18,7 @@ Actualmente me encuentro estudiando el grado superior en Desarrollo de aplicacio
 ## [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrogonzaleznavarro&exclude_repo=Code&hide=Hack&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 ## Encuentrame en
-<a href="https://bit.ly/2McLDKT" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/43465344/110965253-4bf87e00-8354-11eb-95a3-509aed30d57a.png" height="40" style="vertical-align:top; margin:4px;"></a>
+<a href="https://bit.ly/2McLDKT" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/43465344/110965548-937f0a00-8354-11eb-825e-3e219406e279.png" height="40" style="vertical-align:top; margin:4px;"></a>
 <!--
 **AlejandroGonzalezNavarro/AlejandroGonzalezNavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Estadisticas](https://github-readme-stats.vercel.app/api?username=alejandrogonzaleznavarro&hide=prs,issues&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
