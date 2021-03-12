@@ -1,7 +1,7 @@
 # Hola 👋
 ## Sobre mi :smile:
 Siempre estoy aprendiendo, me gusta curiosear sobre todo tipo de cosas, para saber como funciona e interactua con el resto de componentes.
-<table>
+<table style="width:100%;border-collapse: collapse;border: none">
  <tr>
   <td>
 <h3>Algunos lenguajes con los que he experimentado :computer: <h3>
