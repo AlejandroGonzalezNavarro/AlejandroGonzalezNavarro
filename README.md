@@ -3,8 +3,8 @@
 Siempre estoy aprendiendo, me gusta curiosear sobre todo tipo de cosas, para saber como funciona e interactua con el resto de componentes.
 <table style="border: 0px;vertical-align: top;text-align: left;">
  <tbody>
-  <tr style="border: 0px;">
-   <td style="border: 0px;">
+  <tr style="border: 0px solid black;">
+   <td style="border: 0px solid black;">
  <h3>Algunos lenguajes con los que he experimentado :computer: <h3>
  <ul>
   <li>WEB
@@ -32,7 +32,7 @@ Siempre estoy aprendiendo, me gusta curiosear sobre todo tipo de cosas, para sab
  </li>
  </ul>
    </td>
-   <td style="border: 0px;">
+   <td style="border: 0px solid black;">
  <h3><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">Github Readme Stats</a></h3>
 
  [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrogonzaleznavarro&exclude_repo=Code&hide=Hack&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
@@ -40,10 +40,6 @@ Siempre estoy aprendiendo, me gusta curiosear sobre todo tipo de cosas, para sab
   </tr>
  </tbody>
 </table>
-
-|   |  [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrogonzaleznavarro&exclude_repo=Code&hide=Hack&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)  |
-|---|---|
-
 ### Actualmente :mag_right:
 Actualmente me encuentro estudiando el grado superior en Desarrollo de aplicaciones multiplataforma.
 ### Encuentrame en:
