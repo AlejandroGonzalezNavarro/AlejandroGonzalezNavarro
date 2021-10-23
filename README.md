@@ -4,12 +4,10 @@ Siempre estoy aprendiendo, me gusta curiosear sobre todo tipo de cosas, para sab
 
 ### Algunos lenguajes con los que he experimentado :computer:
 * WEB
-  * Front End
-    * HTML
-    * CSS
-  * Back End
-    * PHP
-    * JavaScript
+  * HTML
+  * CSS
+  * PHP
+  * JavaScript
 * Otros
   * SQL
   * C#
