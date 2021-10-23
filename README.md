@@ -3,15 +3,13 @@
 Siempre estoy aprendiendo, me gusta curiosear sobre todo tipo de cosas, para saber como funciona e interactua con el resto de componentes.
 
 ### Algunos lenguajes con los que he experimentado :computer:
-* WEB
+  * SQL
+  * C#
+  * JAVA
   * HTML
   * CSS
   * PHP
   * JavaScript
-* Otros
-  * SQL
-  * C#
-  * JAVA
 
 ### Actualmente :mag_right:
 Actualmente me encuentro estudiando el grado superior en Desarrollo de aplicaciones multiplataforma.
