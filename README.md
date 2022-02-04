@@ -5,6 +5,7 @@ Siempre estoy aprendiendo, me gusta curiosear sobre todo tipo de cosas, para sab
 ## Algunos lenguajes con los que he experimentado :computer:
   * JAVA
   * SQL
+  * Python
   * C#
   * PHP
   * JavaScript
